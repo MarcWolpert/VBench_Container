@@ -14,9 +14,6 @@ LABEL org.opencontainers.image.authors="Marc Wolpert <mewolpert@gmail.com>"
 LABEL org.opencontainers.image.url="https://github.com/mwolpe/VBENCH_Container"
 LABEL org.opencontainers.image.source="https://github.com/Vchitect/VBench"
 LABEL org.opencontainers.image.licenses="Apache-2.0"
-LABEL name="vbench"
-LABEL version="0.2"
-LABEL description="VBench Docker Image with uv package manager"
 
 # Prevent interactive prompts during package installation
 ENV DEBIAN_FRONTEND=noninteractive
