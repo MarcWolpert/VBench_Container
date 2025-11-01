@@ -1,3 +1,6 @@
+## Now with docker container:
+- Just run the docker container with the commands in the Dockerfile and you'll be able to run the benchmark from any CUDA and x86_64 computer.
+
 ![vbench_logo](https://raw.githubusercontent.com/Vchitect/VBench/master/asset/vbench_logo_github_20240605.jpg)
 
 **How to Reach Us:**
